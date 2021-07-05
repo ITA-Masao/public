@@ -4,4 +4,6 @@ public class Calc {
 
     //コメント2
     
+    //コメント3
+
 }
